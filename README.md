@@ -1,0 +1,2 @@
+# blogg
+christian.nordtomme.com
