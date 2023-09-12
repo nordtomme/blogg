@@ -10,29 +10,6 @@
     <id>https://chris.nordtomme.com</id>
 
     <entry>
-        <title>First post</title>
-        <author>
-            <name>Chris K. N.</name>
-        </author>
-        <link href="https://chris.nordtomme.com/first-post.html"/>
-        <id>https://chris.nordtomme.com/first-post.html</id>
-
-        <updated>2023-09-12T21:03:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu ipsum justo, a consequat ligula. Mauris lectus dolor, vehicula in ultricies in, sollicitudin eget nulla. Etiam quam elit, dapibus eget adipiscing sed, aliquam id eros. Maecenas pulvinar hendrerit augue porta egestas. Ut ultricies arcu vel&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu ipsum justo, a consequat ligula. Mauris lectus dolor, vehicula in ultricies in, sollicitudin eget nulla. Etiam quam elit, dapibus eget adipiscing sed, aliquam id eros. Maecenas pulvinar hendrerit augue porta egestas. Ut ultricies arcu vel nunc dignissim egestas. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<br><br>
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Madafuggin Burger Joint</title>
         <author>
             <name>Chris K. N.</name>
@@ -309,71 +286,151 @@ There’s a lot more to HTML than that, but I think that’s more than you need 
         </content>
     </entry>
     <entry>
-        <title>Speak slower</title>
+        <title>Lynkurs i fonter på web</title>
         <author>
             <name>Chris K. N.</name>
         </author>
-        <link href="https://chris.nordtomme.com/speak-slower.html"/>
-        <id>https://chris.nordtomme.com/speak-slower.html</id>
-            <category term="In English"/>
+        <link href="https://chris.nordtomme.com/lynkurs-i-fonter-pa-web.html"/>
+        <id>https://chris.nordtomme.com/lynkurs-i-fonter-pa-web.html</id>
+            <category term="På Norsk"/>
 
         <updated>2023-09-12T21:22:23+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>I’ve been told for a long time that I need to slow down when I speak, but I haven’t really made a committed effort to do so. Recently, however, someone told me that speaking too fast is probably the number one thing holding me back, so I’m going to give it a real shot.</p>
-<p>But how? Based on a little research, this will be the method I start with.
+                    <p>Det er i beste fall ugunstig, og i verste fall umulig, å pakke en hvilken som helst font med i et nyhetsbrev eller nettsider. Derfor bruker vi stort sett <em>webfonter</em> (<a title="Google Web Fonts" href="http://www.google.com/fonts" target="_blank">Google har en stor, gratis samling her</a>) eller vanlige <em>systemfonter</em> (fonter som er installert og aktivert på maskinen til leseren).
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I’ve been told for a long time that I need to slow down when I speak, but I haven’t really made a committed effort to do so. Recently, however, someone told me that speaking too fast is probably the number one thing holding me back, so I’m going to give it a real shot.</p>
-<p>But how? Based on a little research, this will be the method I start with.
+                <p>Det er i beste fall ugunstig, og i verste fall umulig, å pakke en hvilken som helst font med i et nyhetsbrev eller nettsider. Derfor bruker vi stort sett <em>webfonter</em> (<a title="Google Web Fonts" href="http://www.google.com/fonts" target="_blank">Google har en stor, gratis samling her</a>) eller vanlige <em>systemfonter</em> (fonter som er installert og aktivert på maskinen til leseren).
 
-<div>Unsurprisingly, the secret to speaking slower seems to be <em>awareness</em> and <em>practice</em>.</div>
-<div></div>
-<div><strong>How to build awareness?</strong></div>
-<div>Here is one technique for how I can become aware of how fast I speak, even if I can’t always keep it top of mind:</div>
-<div>
-<ul>
- 	
-<li>Listen to people speaking, e.g. talk radio, Ted talks</li>
-<li>Make an effort to notice <em>speed and</em> <em>energy</em>.</li>
-<li>Calibrate my mind to categorize and instantly recognize:</li>
-</ul>
-<ul>
- 	
-<li>low speed + high energy</li>
-<li>high speed + high energy</li>
-<li>low speed + low energy</li>
-<li>high-speed + low energy</li>
-<li>Notice the impact each has on me.</li>
-<li>Recognizing the category and recognizing the impact – in others and myself – will become two cues that trigger awareness.</li>
-</ul>
-</div>
-<div><strong>How to practice actually speaking more slowly:</strong></div>
-<div>
-<ul>
- 	
-<li><em>Don’t</em> practice on family or close friends and colleagues. They know me, read me and understand me, and will think I am acting weird.</li>
-<li>Instead, practice with new people (or speaking to groups). That can become a cue in itself: Meeting new people triggers awareness. My own theory, based on that, is that I’ll get disproportionate results from simply rehearsing a few slow introductions: <em>Hi ____, I’m Christian. It is nice to meet you.</em></li>
-<li>In order to remember to keep the pace down, tap out a slow, relaxed beat. I’ve downloaded a metronome to my phone, which will be offscreen at my next Hangout, blinking at 35-40 bpm.</li>
-</ul>
+<p><a href="http://cssfontstack.com/" target="_blank">Her er en liste over noen vanlige, og noen mindre vanlige, fonter</a>. Ta pekeren over i-ikonet bak fontens navn for å se utbredelsen av hver font.</p>
+<p>I nyhetsbrev vil heller ikke webfonter fungere på alle maskiner. Og ingen fonter – selv ikke Arial – finnes på 100% av verdens maskiner. Derfor bruker man noe som heter font stacks. Font stacks er lister av fonter som kan gjøre jobben, i prioritert rekkeføkge.</p>
+<p>En typisk fontstack ser slik ut: <em>Cambria, Georgia, serif</em></p>
+<p>Det betyr: Bruk Cambria hvis den er tilgjengelig. Hvis ikke, bruk Georgia. Er ingen av dem tilgjengelig, så får en hvilken som helst serif-font duge.</p>
+<p>Du kan ha så mange fonter etter hverandre som du vil, men det bør normalt holde med tre-fire. Hensikten er å begynne med den minst vanlige/mest ønskelige, og så by på mindre optimale, mer tilgjengelige alternativer.</p>
+<p>Så du kan tenke seg at du for eksempel bruker
+<em>drømmefont, webfont alternativ, systemfont 1, systemfont 2, klasse;</em>
+(Der systemfont 1 er en standardfont på PC, og systemfont 2 er en standardfont på Mac; tilgjengelige klasser er serif, sans-serif, monospace, fantasy eller script)</p>
+<p>Det finnes nettsider som viser utbredelse av de fleste fonter.
+En god font-stack tar ikke bare hensyn til det generelle uttrykket, men også at linjehøyde og ordlengde er stort sett lik i de ulike fontene, så man får minst mulig forskyvning ved bytte av font.</p>
+<p>Hvis du vet hvilken font du helst vil bruke, kan du finne gode forslag til fontstacks på nett.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tillatelse til å Selge og Snoke</title>
+        <author>
+            <name>Chris K. N.</name>
+        </author>
+        <link href="https://chris.nordtomme.com/tillatelse-til-a-selge-og-snoke.html"/>
+        <id>https://chris.nordtomme.com/tillatelse-til-a-selge-og-snoke.html</id>
+            <category term="Writing"/>
+            <category term="På Norsk"/>
+            <category term="Kronikk"/>
+
+        <updated>2023-09-12T21:22:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    De fleste av oss har vokst opp med at salg og reklame i utgangspunktet er uting. Det er noe lovene beskytter oss mot. Det er underforstått at det handler om å overtale de naive naboene våre til å gi fra seg pengene sine. (Heldigvis er&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>De fleste av oss har vokst opp med at salg og reklame i utgangspunktet er uting. Det er noe lovene beskytter oss mot. Det er underforstått at det handler om å overtale de naive naboene våre til å gi fra seg pengene sine. (Heldigvis er vi selv altfor smarte til å falle for de sleipe triksene.) Salg er bare selvpromotering, manipulasjon og mas. Reklame er bare irriterende og forstyrrende. (Hvis ikke den er underholdende, da. Da er det greit.</p>
 <p>
-Other advice includes:</p>
-</div>
-<div>
-<ul>
- 	
-<li>Actually listen to my own words (through my ears, not inside my head).</li>
-<li>Picture my words leaving my mouth, travelling through the air, and being heard by the listener.</li>
-<li>And, of course, record myself – but who <em>really</em> does that?</li>
-</ul>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Plagsomme forstyrrelser</h3>
 <p>
-About 18 hours and two new meetings in, at least the technique for awareness seems to give results. We’ll see…</p>
-</div>
-
-
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Og når en telefonsvarer ringer meg midt i middagen, for å love meg gratis og uforpliktende cruise til Bahamas, er jeg tilbøyelig til å være enig. Slikt salg er både masete og irriterende – for det cruiset er selvsagt ikke gratis – og åttende gang de bryter inn i en kveld med familien er det på grensen til umoralsk.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nå, når Facebook, Google og andre, i partnerskap med Big Data – de store informasjonsbankene – lar oss bruke og kombinere alt de vet, og bruke det i reklame, kan det føles ganske klamt.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Kombinasjonen av hva jeg «liker» og hva jeg snakker om, hvor jeg er og hva jeg gjør, hvor mye penger jeg har, hvor mye jeg bruker og hva jeg bruker dem på … Det kommer vel tett på livet.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Før du melder deg ut av Facebook, vit at mye av denne informasjonen kommer fra helt andre kilder: kredittkortselskaper, fordelsprogrammer og offentlige data. Den har vært brukt og misbrukt til direktemarkedsføring i årevis, men det er først nå, når sosiale medier kan levere budskapet, at den kommer til sin rett.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hvis du ser på reklame og salg som en plage, er det lett å bli skremt av dette. Det er uoversiktlig og lite gjennomsiktig, og det føles som et overgrep at noen skal spionere på deg, og bruke det de lærer til å manipulere deg.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Og det er én måte å se det på. Men vi gründere og skapere har ikke råd til å se det på den måten.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Hva kan du hjelpe med?</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Kulturen for salg og ubeskjeden selvpromotering i USA er umiddelbart avskrekkende for en blyg nordmann. Det er faktisk ganske få amerikanere som passer til den høylydte og brautende stereotypen, men jeg har møtt mange lavmælte folk som snakker som om landets fremtid avhenger av hva de gjør fra ni til fem. Og når de ser på meg for å få anerkjennelse for selvskrytet sitt, kan jeg ikke annet enn å rødme.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Etter hvert gikk det imidlertid opp for meg at det ikke bare er forfengelig skryt og selvhevdelse.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>En helt grunnleggende idé i amerikansk kultur er at det er noe du er bedre til enn andre. Det er en litt fjern tanke for oss som alle bare er utskiftbare biter av det store, sosialdemokratiske maskineriet. I USA, derimot, har du noe eget å bidra med. Hvis du skjuler det, snyter du ikke bare deg selv, men oss alle.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Du er rett og slett moralsk forpliktet til å drive reklame for deg selv. Fortell oss hva du kan hjelpe med. Du har en tilsvarende plikt til å selge. Hvis du selger noe av verdi, og kundene dine er forholdsvis rasjonelle og informerte, så er hvert salg en gave.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hvis det blir ukomfortabelt eller irriterende å høre på selvpromoteringen, så er det sammenhengen og leveringen det er noe galt med. Det fordi den ikke er relevant der og da, og derfor heller ikke spesielt interessant.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Vær annerledes. Vær relevant.</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Dessverre er det mange som ikke bryr seg om relevans og interesse. Selgere som lever av å mase på uinteresserte tv-tittere og trafikanter, å blende dem med uviktigheter, og å prakke på dem elendige produkter når de er forvirret nok. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>For ikke så lenge siden var det en lønnsom og vanlig forretningsidé. Men hvis du, som skaper, skal la være å selge eller promotere deg selv av frykt for å bli oppfattet som en av dem, taper vi alle.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Løsningen er ikke å promotere seg mindre. Du som har noe verdifult å bidra med må tvert i mot promotere deg mer, men annerledes.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Du må være et bedre alternativ, og du må sørge for å være relevant, interessant og hjelpsom. Du må lære deg å finne dem som trenger hjelpen din, og ikke forstyrre dem som ikke har noen glede eller interesse av det du selger.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Og i det arbeidet har Google, Facebook og Big Data enormt mye de kan hjelpe deg med. For til syvende og sist tilbyr de ikke verktøy for å hjelpe deg å snoke og manipulere folk til å kjøpe ting de ikke trenger – selv om noen nok bruker det sånn. Hensikten er å identifisere dem som ikke trenger noe særlig overtalelse, så du slipper å bruke så mye tid, penger og energi på alle de andre.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>På tide å promotere deg selv</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Er du klar for å promotere deg selv? I så fall er jeg nysgjerrig: Hvem hjelper du – og hvordan? </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="http://web.archive.org/web/20140821133522/http://www.3in.no/tillatelse-til-a-selge-og-snoke/" target="_blank" rel="noreferrer noopener">Opprinnelig publisert på 3in.no</a></p>
+<p>
+<!-- /wp:paragraph --></p>
 
             ]]>
         </content>
