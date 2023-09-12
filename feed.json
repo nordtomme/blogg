@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chris K. N.",
+    "description": "",
+    "home_page_url": "https://chris.nordtomme.com",
+    "feed_url": "https://chris.nordtomme.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chris K. N."
+    },
+    "items": [
+        {
+            "id": "https://chris.nordtomme.com/first-post.html",
+            "url": "https://chris.nordtomme.com/first-post.html",
+            "title": "First post",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu ipsum justo, a consequat ligula. Mauris lectus dolor, vehicula in ultricies in, sollicitudin eget nulla. Etiam quam elit, dapibus eget adipiscing sed, aliquam id eros. Maecenas pulvinar hendrerit augue porta egestas. Ut ultricies arcu vel&hellip;",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu ipsum justo, a consequat ligula. Mauris lectus dolor, vehicula in ultricies in, sollicitudin eget nulla. Etiam quam elit, dapibus eget adipiscing sed, aliquam id eros. Maecenas pulvinar hendrerit augue porta egestas. Ut ultricies arcu vel nunc dignissim egestas. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<br><br>\n  </p>",
+            "author": {
+                "name": "Chris K. N."
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-12T21:03:37+02:00",
+            "date_modified": "2023-09-12T21:03:37+02:00"
+        }
+    ]
+}

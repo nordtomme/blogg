@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Chris K. N.</title>
+    <link href="https://chris.nordtomme.com/feed.xml" rel="self" />
+    <link href="https://chris.nordtomme.com" />
+    <updated>2023-09-12T21:03:37+02:00</updated>
+    <author>
+        <name>Chris K. N.</name>
+    </author>
+    <id>https://chris.nordtomme.com</id>
+
+    <entry>
+        <title>First post</title>
+        <author>
+            <name>Chris K. N.</name>
+        </author>
+        <link href="https://chris.nordtomme.com/first-post.html"/>
+        <id>https://chris.nordtomme.com/first-post.html</id>
+
+        <updated>2023-09-12T21:03:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu ipsum justo, a consequat ligula. Mauris lectus dolor, vehicula in ultricies in, sollicitudin eget nulla. Etiam quam elit, dapibus eget adipiscing sed, aliquam id eros. Maecenas pulvinar hendrerit augue porta egestas. Ut ultricies arcu vel&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu ipsum justo, a consequat ligula. Mauris lectus dolor, vehicula in ultricies in, sollicitudin eget nulla. Etiam quam elit, dapibus eget adipiscing sed, aliquam id eros. Maecenas pulvinar hendrerit augue porta egestas. Ut ultricies arcu vel nunc dignissim egestas. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<br><br>
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
