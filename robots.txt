@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://chris.nordtomme.com/sitemap.xml
+Sitemap: https://christian.nordtomme.com/sitemap.xml
