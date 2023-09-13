@@ -3,12 +3,36 @@
     <title>Chris K. N.</title>
     <link href="https://christian.nordtomme.com/feed.xml" rel="self" />
     <link href="https://christian.nordtomme.com" />
-    <updated>2023-09-13T09:59:07+02:00</updated>
+    <updated>2023-09-13T19:51:43+02:00</updated>
     <author>
         <name>Chris K. N.</name>
     </author>
     <id>https://christian.nordtomme.com</id>
 
+    <entry>
+        <title>Predicting the Collapse of Society</title>
+        <author>
+            <name>Chris K. N.</name>
+        </author>
+        <link href="https://christian.nordtomme.com/predicting-the-collapse-of-society/"/>
+        <id>https://christian.nordtomme.com/predicting-the-collapse-of-society/</id>
+        <media:content url="https://christian.nordtomme.com/media/posts/39/PeterTurchin_EndTimes.png" medium="image" />
+
+        <updated>2023-09-13T19:51:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christian.nordtomme.com/media/posts/39/PeterTurchin_EndTimes.png" alt="" />
+                    Book Review: End Times by Peter Turchin. An ambitious, but not exactly optimistic, take on history, current events, and our near future. Read it on Medium
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://christian.nordtomme.com/media/posts/39/PeterTurchin_EndTimes.png" class="type:primaryImage" alt="" /></p>
+                <h2>Book Review: End Times by Peter Turchin. An ambitious, but not exactly optimistic, take on history, current events, and our near future.</h2>
+<p class="align-center"><a href="https://medium.com/@nordtomme/predicting-the-collapse-of-society-f679e59ee97d?sk=057fea074442440ec6a7ca2ac1427d99">Read it on Medium</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tillatelse til å Selge og Snoke</title>
         <author>
@@ -419,34 +443,6 @@ Det er selvsagt uansett ikke bra, men journalisten burde ha nevnt at narkolepsi 
                 <p>Til å begynne med var golf lett å snakke om. Hullene hadde ingen par, spillerne hadde ikke handicap. Den største utfordringen var å holde orden på hvilke køller man hadde i bagen, men med køllenavn som brassie, niblick, mashie og spoon var det en oppgave i seg selv.</p>
 <p><a href="http://www.scribd.com/doc/238955088/Golfspr%C3%A5ket?secret_password=ekXdbgh0z8no5Nh7sOYS">Les artikkelen eller last ned PDF på Scribd</a></p>
 <p><em>Artikkelen sto på trykk i Norsk Golf, november 2005.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Norsk Golf: Golf fra ni til fem</title>
-        <author>
-            <name>Chris K. N.</name>
-        </author>
-        <link href="https://christian.nordtomme.com/norsk-golf-golf-fra-ni-til-fem/"/>
-        <id>https://christian.nordtomme.com/norsk-golf-golf-fra-ni-til-fem/</id>
-        <media:content url="https://christian.nordtomme.com/media/posts/24/Screen-Shot-2014-09-07-at-11.39.36-400x481.png" medium="image" />
-            <category term="Writing"/>
-            <category term="På Norsk"/>
-            <category term="Journalism"/>
-
-        <updated>2023-09-13T09:24:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christian.nordtomme.com/media/posts/24/Screen-Shot-2014-09-07-at-11.39.36-400x481.png" alt="" />
-                    Å spille golf hver dag, følge med på at gresset gror som detskal, kanskje reise på studietur til St. Andrews eller Valderrama av og til, og så ta seg betalt for det på toppen av det hele. Vi har lett etter din neste drømmejobb. Se&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://christian.nordtomme.com/media/posts/24/Screen-Shot-2014-09-07-at-11.39.36-400x481.png" class="type:primaryImage" alt="" /></p>
-                <p>Å spille golf hver dag, følge med på at gresset gror som detskal, kanskje reise på studietur til St. Andrews eller Valderrama av og til, og så ta seg betalt for det på toppen av det hele. Vi har lett etter din neste drømmejobb.</p>
-<p><a title="Golfyrker: Golf fra ni til fem" href="http://www.scribd.com/doc/238955082/Golfyrker?secret_password=TAHklSGdhOE1u9jF6U9W">Se særtrykk av artikkelen, eller last ned PDF-versjon, på Scribd.</a></p>
-<p><em>Artikkelen sto på trykk i Norsk Golf i juni 2004.</em></p>
             ]]>
         </content>
     </entry>

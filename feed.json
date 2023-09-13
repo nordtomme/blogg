@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://christian.nordtomme.com/predicting-the-collapse-of-society/",
+            "url": "https://christian.nordtomme.com/predicting-the-collapse-of-society/",
+            "title": "Predicting the Collapse of Society",
+            "summary": "Book Review: End Times by Peter Turchin. An ambitious, but not exactly optimistic, take on history, current events, and our near future. Read it on Medium",
+            "content_html": "<h2>Book Review: End Times by Peter Turchin. An ambitious, but not exactly optimistic, take on history, current events, and our near future.</h2>\n<p class=\"align-center\"><a href=\"https://medium.com/@nordtomme/predicting-the-collapse-of-society-f679e59ee97d?sk=057fea074442440ec6a7ca2ac1427d99\">Read it on Medium</a></p>",
+            "image": "https://christian.nordtomme.com/media/posts/39/PeterTurchin_EndTimes.png",
+            "author": {
+                "name": "Chris K. N."
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-13T19:40:58+02:00",
+            "date_modified": "2023-09-13T19:51:43+02:00"
+        },
+        {
             "id": "https://christian.nordtomme.com/tillatelse-til-a-selge-og-snoke/",
             "url": "https://christian.nordtomme.com/tillatelse-til-a-selge-og-snoke/",
             "title": "Tillatelse til å Selge og Snoke",
@@ -160,24 +175,6 @@
             ],
             "date_published": "2005-11-01T12:00:57+01:00",
             "date_modified": "2023-09-13T09:25:12+02:00"
-        },
-        {
-            "id": "https://christian.nordtomme.com/norsk-golf-golf-fra-ni-til-fem/",
-            "url": "https://christian.nordtomme.com/norsk-golf-golf-fra-ni-til-fem/",
-            "title": "Norsk Golf: Golf fra ni til fem",
-            "summary": "Å spille golf hver dag, følge med på at gresset gror som detskal, kanskje reise på studietur til St. Andrews eller Valderrama av og til, og så ta seg betalt for det på toppen av det hele. Vi har lett etter din neste drømmejobb. Se&hellip;",
-            "content_html": "<p>Å spille golf hver dag, følge med på at gresset gror som detskal, kanskje reise på studietur til St. Andrews eller Valderrama av og til, og så ta seg betalt for det på toppen av det hele. Vi har lett etter din neste drømmejobb.</p>\n<p><a title=\"Golfyrker: Golf fra ni til fem\" href=\"http://www.scribd.com/doc/238955082/Golfyrker?secret_password=TAHklSGdhOE1u9jF6U9W\">Se særtrykk av artikkelen, eller last ned PDF-versjon, på Scribd.</a></p>\n<p><em>Artikkelen sto på trykk i Norsk Golf i juni 2004.</em></p>",
-            "image": "https://christian.nordtomme.com/media/posts/24/Screen-Shot-2014-09-07-at-11.39.36-400x481.png",
-            "author": {
-                "name": "Chris K. N."
-            },
-            "tags": [
-                   "Writing",
-                   "På Norsk",
-                   "Journalism"
-            ],
-            "date_published": "2004-06-01T12:00:22+02:00",
-            "date_modified": "2023-09-13T09:24:19+02:00"
         }
     ]
 }
