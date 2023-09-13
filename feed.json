@@ -10,23 +10,6 @@
     },
     "items": [
         {
-            "id": "https://christian.nordtomme.com/can-we-build-public-spaces-for-more-creation-and-not-just-recreation.html",
-            "url": "https://christian.nordtomme.com/can-we-build-public-spaces-for-more-creation-and-not-just-recreation.html",
-            "title": "Can we build public spaces for more Creation, and not just ReCreation?",
-            "summary": "I just watched Amanda Burden’s Ted Talk, and New Yorkers obviously have a lot to thank her for: The Dumbo waterfront, The High Line, Battery Park, etc. But her insistence that commercial interests so often conflict with the public good, made me think. Public spaces&hellip;",
-            "content_html": "<p>I just watched <a href=\"http://www.ted.com/talks/amanda_burden_how_public_spaces_make_cities_work\" title=\"How Public Spaces Make Cities Work\" target=\"_blank\" rel=\"noopener\">Amanda Burden’s Ted Talk</a>, and New Yorkers obviously have a lot to thank her for: The Dumbo waterfront, The High Line, Battery Park, etc.</p>\n<p>But her insistence that commercial interests so often conflict with the public good, made me think. Public spaces are often <span class=\"text_exposed_show\">made for recreation – sitting, walking, playing. With the exception of spaces for sports, they are rarely designed for creation, without some over-arching commercial interest.<br><br>It seems like artistic, entertaining, informational and small-scale commercial activities in public spaces often happen despite and around the design of the space, not thanks to it. </span></p>\n<p><span class=\"text_exposed_show\">What if we built more places designed for ordinary people to perform, work, practice, build, teach, talk, trade, construct, experiment … Would we do those things?</span></p>",
-            "image": "https://christian.nordtomme.com/media/posts/32/Google-Chrome-Amanda-Burden-How-public-spaces-make-cities-work-TED-Talk-2023-09.-13.-at-09.19.56.png",
-            "author": {
-                "name": "Chris K. N."
-            },
-            "tags": [
-                   "Thinking",
-                   "In English"
-            ],
-            "date_published": "2014-04-08T14:31:00+02:00",
-            "date_modified": "2023-09-13T09:20:27+02:00"
-        },
-        {
             "id": "https://christian.nordtomme.com/tillatelse-til-a-selge-og-snoke.html",
             "url": "https://christian.nordtomme.com/tillatelse-til-a-selge-og-snoke.html",
             "title": "Tillatelse til å Selge og Snoke",
@@ -59,21 +42,6 @@
             ],
             "date_published": "2013-11-18T08:22:00+01:00",
             "date_modified": "2023-09-13T09:59:07+02:00"
-        },
-        {
-            "id": "https://christian.nordtomme.com/ellas-wool-in-nytimes.html",
-            "url": "https://christian.nordtomme.com/ellas-wool-in-nytimes.html",
-            "title": "Ella&#x27;s Wool in NYTimes",
-            "summary": "[gallery] Cool! Ella&rsquo;s Wool in New York Times Style Magazine.",
-            "content_html": "<p>[gallery]</p>\n<p>Cool! <a href=\"http://ellaswool.com\" title=\"Ella's Wool  Soft non-itchy alpaca and merino wool for kids & babies\" target=\"_blank\">Ella&rsquo;s Wool</a> in <a href=\"http://tmagazine.blogs.nytimes.com/2012/11/19/new-kids-label-alert-ellas-wool/\" title=\"Ella's Wool in New York Times Style Magazine\" target=\"_blank\">New York Times Style Magazine</a>. </p>\n\n\n",
-            "author": {
-                "name": "Chris K. N."
-            },
-            "tags": [
-                   "In English"
-            ],
-            "date_published": "2012-11-20T20:30:20+01:00",
-            "date_modified": "2023-09-12T21:22:23+02:00"
         },
         {
             "id": "https://christian.nordtomme.com/en-ting-eller-to-om-qr-koder.html",
@@ -174,6 +142,42 @@
             ],
             "date_published": "2006-08-01T12:00:32+02:00",
             "date_modified": "2023-09-13T09:22:57+02:00"
+        },
+        {
+            "id": "https://christian.nordtomme.com/norsk-golf-nar-golfere-snakker.html",
+            "url": "https://christian.nordtomme.com/norsk-golf-nar-golfere-snakker.html",
+            "title": "Norsk Golf: Når golfere snakker",
+            "summary": "Til å begynne med var golf lett å snakke om. Hullene hadde ingen par, spillerne hadde ikke handicap. Den største utfordringen var å holde orden på hvilke køller man hadde i bagen, men med køllenavn som brassie, niblick, mashie og spoon var det en oppgave&hellip;",
+            "content_html": "<p>Til å begynne med var golf lett å snakke om. Hullene hadde ingen par, spillerne hadde ikke handicap. Den største utfordringen var å holde orden på hvilke køller man hadde i bagen, men med køllenavn som brassie, niblick, mashie og spoon var det en oppgave i seg selv.</p>\n<p><a href=\"http://www.scribd.com/doc/238955088/Golfspr%C3%A5ket?secret_password=ekXdbgh0z8no5Nh7sOYS\">Les artikkelen eller last ned PDF på Scribd</a></p>\n<p><em>Artikkelen sto på trykk i Norsk Golf, november 2005.</em></p>",
+            "image": "https://christian.nordtomme.com/media/posts/23/Screen-Shot-2014-09-07-at-11.40.02-300x300.png",
+            "author": {
+                "name": "Chris K. N."
+            },
+            "tags": [
+                   "Writing",
+                   "På Norsk",
+                   "Journalism"
+            ],
+            "date_published": "2005-11-01T12:00:57+01:00",
+            "date_modified": "2023-09-13T09:25:12+02:00"
+        },
+        {
+            "id": "https://christian.nordtomme.com/norsk-golf-golf-fra-ni-til-fem.html",
+            "url": "https://christian.nordtomme.com/norsk-golf-golf-fra-ni-til-fem.html",
+            "title": "Norsk Golf: Golf fra ni til fem",
+            "summary": "Å spille golf hver dag, følge med på at gresset gror som detskal, kanskje reise på studietur til St. Andrews eller Valderrama av og til, og så ta seg betalt for det på toppen av det hele. Vi har lett etter din neste drømmejobb. Se&hellip;",
+            "content_html": "<p>Å spille golf hver dag, følge med på at gresset gror som detskal, kanskje reise på studietur til St. Andrews eller Valderrama av og til, og så ta seg betalt for det på toppen av det hele. Vi har lett etter din neste drømmejobb.</p>\n<p><a title=\"Golfyrker: Golf fra ni til fem\" href=\"http://www.scribd.com/doc/238955082/Golfyrker?secret_password=TAHklSGdhOE1u9jF6U9W\">Se særtrykk av artikkelen, eller last ned PDF-versjon, på Scribd.</a></p>\n<p><em>Artikkelen sto på trykk i Norsk Golf i juni 2004.</em></p>",
+            "image": "https://christian.nordtomme.com/media/posts/24/Screen-Shot-2014-09-07-at-11.39.36-400x481.png",
+            "author": {
+                "name": "Chris K. N."
+            },
+            "tags": [
+                   "Writing",
+                   "På Norsk",
+                   "Journalism"
+            ],
+            "date_published": "2004-06-01T12:00:22+02:00",
+            "date_modified": "2023-09-13T09:24:19+02:00"
         }
     ]
 }
