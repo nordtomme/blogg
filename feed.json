@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2025-03-05T12:28:56+01:00",
-            "date_modified": "2025-03-06T11:19:31+01:00"
+            "date_modified": "2025-03-06T14:59:06+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/the-real-question-to-the-answer-to-life-the-universe-and-everything/",
@@ -40,7 +40,7 @@
                    "Medium"
             ],
             "date_published": "2024-12-09T14:50:00+01:00",
-            "date_modified": "2025-03-06T10:21:17+01:00"
+            "date_modified": "2025-03-06T14:59:51+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/cosmic-psycho-or-is-god-really-the-good-guy/",
@@ -57,7 +57,7 @@
                    "Medium"
             ],
             "date_published": "2024-11-11T14:44:00+01:00",
-            "date_modified": "2025-03-05T16:17:06+01:00"
+            "date_modified": "2025-03-06T15:03:32+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/lets-reinvent-american-democracy/",
@@ -74,7 +74,7 @@
                    "Philosophizing"
             ],
             "date_published": "2024-11-04T14:44:00+01:00",
-            "date_modified": "2025-03-06T10:21:23+01:00"
+            "date_modified": "2025-03-06T15:03:43+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/who-wants-a-theory-of-everything/",
@@ -91,7 +91,7 @@
                    "Medium"
             ],
             "date_published": "2024-10-24T14:40:00+02:00",
-            "date_modified": "2025-03-06T10:21:41+01:00"
+            "date_modified": "2025-03-06T15:04:58+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/how-some-designers-create-bad-clients/",
@@ -108,7 +108,7 @@
                    "Marketing"
             ],
             "date_published": "2024-06-19T15:01:00+02:00",
-            "date_modified": "2025-03-06T10:21:51+01:00"
+            "date_modified": "2025-03-06T14:59:31+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/blood-and-soil-and-blind-faith-in-the-holy-land/",
@@ -125,7 +125,7 @@
                    "Medium"
             ],
             "date_published": "2024-04-06T14:34:00+02:00",
-            "date_modified": "2024-12-10T15:10:28+01:00"
+            "date_modified": "2025-03-06T15:05:15+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/how-do-christians-know-what-to-believe/",
@@ -143,7 +143,7 @@
                    "Medium"
             ],
             "date_published": "2023-12-10T14:34:00+01:00",
-            "date_modified": "2024-12-10T15:11:23+01:00"
+            "date_modified": "2025-03-06T15:05:27+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/we-think-about-time-all-wrong/",
@@ -160,14 +160,14 @@
                    "Medium"
             ],
             "date_published": "2023-11-30T14:29:00+01:00",
-            "date_modified": "2024-12-10T15:11:39+01:00"
+            "date_modified": "2025-03-06T15:05:54+01:00"
         },
         {
             "id": "https://christian.nordtomme.com/dont-underestimate-the-reckless-stupidity-of-columbus/",
             "url": "https://christian.nordtomme.com/dont-underestimate-the-reckless-stupidity-of-columbus/",
             "title": "Don’t Underestimate The Reckless Stupidity of Columbus",
             "summary": "We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it&hellip;",
-            "content_html": "<div>\n<p id=\"47ee\" class=\"pw-subtitle-paragraph ul fj uc am b um un uo up uq ur us ut uu uv uw ux uy uz va rz aj\">We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it was to sail west to Asia.</p>\n<p><a href=\"https://medium.com/@nordtomme/dont-underestimate-the-reckless-stupidity-of-columbus-d09e2b387a38?sk=6e5647a074fc6c341d7e6368a056d01f\" title=\"Don’t Underestimate The Reckless Stupidity of Columbus\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Read the full post: Don’t Underestimate The Reckless Stupidity of Columbus</a></p>\n</div>",
+            "content_html": "<p id=\"47ee\" class=\"pw-subtitle-paragraph ul fj uc am b um un uo up uq ur us ut uu uv uw ux uy uz va rz aj\">We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it was to sail west to Asia.</p>",
             "image": "https://christian.nordtomme.com/media/posts/45/columbus.gif",
             "author": {
                 "name": "Chris K. N."
@@ -175,7 +175,7 @@
             "tags": [
             ],
             "date_published": "2023-09-30T16:02:00+02:00",
-            "date_modified": "2024-12-10T15:11:47+01:00"
+            "date_modified": "2025-03-06T15:07:09+01:00"
         }
     ]
 }
