@@ -26,6 +26,24 @@
             "date_modified": "2025-03-06T14:59:06+01:00"
         },
         {
+            "id": "https://christian.nordtomme.com/on-grounding-your-faith/",
+            "url": "https://christian.nordtomme.com/on-grounding-your-faith/",
+            "title": "On Grounding Your Faith",
+            "summary": "The real final judgement is not God’s judgement of you — it is your judgement of God",
+            "content_html": "<p>The real final judgement is not God’s judgement of you — it is your judgement of God</p>",
+            "image": "https://christian.nordtomme.com/media/posts/59/saul-faith.png",
+            "author": {
+                "name": "Chris K. N."
+            },
+            "tags": [
+                   "Religion",
+                   "Philosophizing",
+                   "Medium"
+            ],
+            "date_published": "2025-02-21T16:27:00+01:00",
+            "date_modified": "2025-03-25T16:28:02+01:00"
+        },
+        {
             "id": "https://christian.nordtomme.com/the-real-question-to-the-answer-to-life-the-universe-and-everything/",
             "url": "https://christian.nordtomme.com/the-real-question-to-the-answer-to-life-the-universe-and-everything/",
             "title": "The Real Question to the Answer to Life, the Universe and Everything",
@@ -161,21 +179,6 @@
             ],
             "date_published": "2023-11-30T14:29:00+01:00",
             "date_modified": "2025-03-06T15:05:54+01:00"
-        },
-        {
-            "id": "https://christian.nordtomme.com/dont-underestimate-the-reckless-stupidity-of-columbus/",
-            "url": "https://christian.nordtomme.com/dont-underestimate-the-reckless-stupidity-of-columbus/",
-            "title": "Don’t Underestimate The Reckless Stupidity of Columbus",
-            "summary": "We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it&hellip;",
-            "content_html": "<p id=\"47ee\" class=\"pw-subtitle-paragraph ul fj uc am b um un uo up uq ur us ut uu uv uw ux uy uz va rz aj\">We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it was to sail west to Asia.</p>",
-            "image": "https://christian.nordtomme.com/media/posts/45/columbus.gif",
-            "author": {
-                "name": "Chris K. N."
-            },
-            "tags": [
-            ],
-            "date_published": "2023-09-30T16:02:00+02:00",
-            "date_modified": "2025-03-06T15:07:09+01:00"
         }
     ]
 }

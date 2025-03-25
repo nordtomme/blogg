@@ -3,7 +3,7 @@
     <title>Chris K. N.</title>
     <link href="https://christian.nordtomme.com/feed.xml" rel="self" />
     <link href="https://christian.nordtomme.com" />
-    <updated>2025-03-06T15:07:09+01:00</updated>
+    <updated>2025-03-25T16:28:02+01:00</updated>
     <author>
         <name>Chris K. N.</name>
     </author>
@@ -29,6 +29,32 @@
             <![CDATA[
                     <p><img src="https://christian.nordtomme.com/media/posts/57/brukken-blyant.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Synes du det er vanskelig å vite hvilke ord som skal slås sammen? Det er sånt som visse mennesker får høyt blod trykk blodtrykk av. Her er noen tips som kan hjelpe deg forbedre den norske folke helsen folkehelsen.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>On Grounding Your Faith</title>
+        <author>
+            <name>Chris K. N.</name>
+        </author>
+        <link href="https://christian.nordtomme.com/on-grounding-your-faith/"/>
+        <id>https://christian.nordtomme.com/on-grounding-your-faith/</id>
+        <media:content url="https://christian.nordtomme.com/media/posts/59/saul-faith.png" medium="image" />
+            <category term="Religion"/>
+            <category term="Philosophizing"/>
+            <category term="Medium"/>
+
+        <updated>2025-02-21T16:27:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christian.nordtomme.com/media/posts/59/saul-faith.png" alt="" />
+                    The real final judgement is not God’s judgement of you — it is your judgement of God
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://christian.nordtomme.com/media/posts/59/saul-faith.png" class="type:primaryImage" alt="" /></p>
+                <p>The real final judgement is not God’s judgement of you — it is your judgement of God</p>
             ]]>
         </content>
     </entry>
@@ -1035,29 +1061,6 @@
 <p id="1e64" class="pw-post-body-paragraph ni nj gd nk b gx oe nm nn ha of np nq nr og nt nu nv oh nx ny nz oi ob oc od fw bk" data-selectable-paragraph="">And if you’re anything like me, you have plenty of room to do more of that and add time to your years.</p>
 <p id="8827" class="pw-post-title gb gc gd bf ge gf gg gh gi gj gk gl gm gn go gp gq gr gs gt gu gv bk" data-testid="storyTitle"></p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Don’t Underestimate The Reckless Stupidity of Columbus</title>
-        <author>
-            <name>Chris K. N.</name>
-        </author>
-        <link href="https://christian.nordtomme.com/dont-underestimate-the-reckless-stupidity-of-columbus/"/>
-        <id>https://christian.nordtomme.com/dont-underestimate-the-reckless-stupidity-of-columbus/</id>
-        <media:content url="https://christian.nordtomme.com/media/posts/45/columbus.gif" medium="image" />
-
-        <updated>2023-09-30T16:02:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christian.nordtomme.com/media/posts/45/columbus.gif" alt="Columbus: Galaxy brain and 15th century tech bro" />
-                    We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://christian.nordtomme.com/media/posts/45/columbus.gif" class="type:primaryImage" alt="Columbus: Galaxy brain and 15th century tech bro" /></p>
-                <p id="47ee" class="pw-subtitle-paragraph ul fj uc am b um un uo up uq ur us ut uu uv uw ux uy uz va rz aj">We’re coming up on that time of year, again, when we can’t agree on whether we should be celebrating Columbus or not. Much of the controversy has been debated to death, but I don’t think we’ve quite internalized, as a culture, quite what a remarkably reckless and ill-informed idea it was to sail west to Asia.</p>
             ]]>
         </content>
     </entry>
