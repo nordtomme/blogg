@@ -3,7 +3,7 @@
     <title>Chris K. N.</title>
     <link href="https://christian.nordtomme.com/feed.xml" rel="self" />
     <link href="https://christian.nordtomme.com" />
-    <updated>2025-03-25T16:28:02+01:00</updated>
+    <updated>2025-10-21T18:24:49+02:00</updated>
     <author>
         <name>Chris K. N.</name>
     </author>
@@ -28,7 +28,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://christian.nordtomme.com/media/posts/57/brukken-blyant.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Synes du det er vanskelig å vite hvilke ord som skal slås sammen? Det er sånt som visse mennesker får høyt blod trykk blodtrykk av. Her er noen tips som kan hjelpe deg forbedre den norske folke helsen folkehelsen.</p>
+                <p>Synes du det er vanskelig å vite hvilke ord som skal slås sammen? Det er sånt som visse mennesker får høyt <span style="text-decoration: line-through;">blod trykk</span> blodtrykk av. Her er noen tips som kan hjelpe deg forbedre den norske <span style="text-decoration: line-through;">folke helsen</span> folkehelsen.</p>
             ]]>
         </content>
     </entry>
