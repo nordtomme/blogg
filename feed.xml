@@ -3,7 +3,7 @@
     <title>Chris K. N.</title>
     <link href="https://christian.nordtomme.com/feed.xml" rel="self" />
     <link href="https://christian.nordtomme.com" />
-    <updated>2025-10-21T20:52:47+02:00</updated>
+    <updated>2026-02-28T17:53:42+01:00</updated>
     <author>
         <name>Chris K. N.</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Religion"/>
 
         <updated>2025-10-21T20:50:02+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/66/atheist-religion.jpg" alt="Atheism religion" />
                     Dogma makes all the difference.
@@ -46,7 +46,7 @@
             <category term="Medium"/>
 
         <updated>2025-10-21T20:47:43+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/65/respect.png" alt="Respect" />
                     In their deep insecurities, people get respect all wrong.
@@ -71,7 +71,7 @@
             <category term="Medium"/>
 
         <updated>2025-10-21T20:45:17+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/64/Bertrand-Russell.png" alt="Bertrand Russell having an insight" />
                     A perspective that helped me wrap my mind around some really tricky issues.
@@ -98,7 +98,7 @@
             <category term="Medium"/>
 
         <updated>2025-10-21T20:42:52+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/63/descartes-thinking.png" alt="Descartes thinking he is" />
                     The masterful reasoning behind “I think, therefore I am” brought him to almost exactly the wrong conclusion
@@ -123,7 +123,7 @@
             <category term="Health and Fitness"/>
 
         <updated>2025-10-21T20:40:23+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/62/1_X1nrwBceKKS_93NCbPCygg2x.webp" alt="Fit" />
                     ONE simple fact about getting in shape fast and easy!
@@ -149,7 +149,7 @@
             <category term="AI"/>
 
         <updated>2025-10-21T20:36:07+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/61/sisyphus.png" alt="Sisyphus" />
                     Tech’s promise: A future with no more work, easy living, and an end to suffering … Well, that’s not gonna happen!
@@ -174,7 +174,7 @@
             <category term="AI"/>
 
         <updated>2025-10-21T18:32:13+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/60/AI-slop.png" alt="AI Slop" />
                     … or The Obvious Thing About AI that LinkedIn Hype Bros Don’t Understand.
@@ -197,7 +197,7 @@
         <media:content url="https://christian.nordtomme.com/media/posts/57/brukken-blyant.jpg" medium="image" />
 
         <updated>2025-03-05T12:28:56+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/57/brukken-blyant.jpg" alt="" />
                     Synes du det er vanskelig å vite hvilke ord som skal slås sammen? Det er sånt som visse mennesker får høyt blodtrykk av. Her er noen tips som kan hjelpe deg forbedre den norske folkehelsen.
@@ -223,7 +223,7 @@
             <category term="Medium"/>
 
         <updated>2025-02-21T16:27:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/59/saul-faith.png" alt="" />
                     The real final judgement is not God’s judgement of you — it is your judgement of God
@@ -248,7 +248,7 @@
             <category term="Medium"/>
 
         <updated>2024-12-09T14:50:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://christian.nordtomme.com/media/posts/52/QuestionLifeuniverseEverything.png" alt="Why did the chicken cross the road" />
                     <p id="b053" class="pw-subtitle-paragraph gw gc gd bf b gx gy gz ha hb hc hd he hf hg hh hi hj hk hl cq dx">Getting past the sex life of demons, the motivations of chickens, and the challenges of disassembling IKEA furniture in the dark, to get to the one question that answers everything.</p>
